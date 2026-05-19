@@ -5,8 +5,10 @@ Chamo-me Lucas Dias, tenho 18 anos e sou natural de Caicó, Rio Grande do Norte.
 
 ## 📊 Estatísticas
 
-<img src="https://streak-stats.demolab.com/?user=diaslucas06&theme=tokyonight&hide_border=true" height=150px />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=diaslucas06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=150px/>
+<div style="display: flex; gap: 15px">
+    <img src="https://streak-stats.demolab.com/?user=diaslucas06&theme=tokyonight&hide_border=true" height=170px />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=diaslucas06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=170px/>
+</div>
 
 ## 🖥️ Linguagens e Ferramentas
 
